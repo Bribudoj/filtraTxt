@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1615356216 source:d:\linguagem\sudoku\ibge_tab_fixa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1615528134 source:d:\linguagem\ibge\ibge_tab_fixa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
